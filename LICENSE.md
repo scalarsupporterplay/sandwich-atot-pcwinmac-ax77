@@ -1,4 +1,4 @@
-# 
+# Código aberto sandwich attack bot scripts para Mac OS | Leve sandwich attack bot scripts para PC Windows. Com visualização de dados e endpoints RPC privados — otimizado para máximo desempeño en cada plataforma.
 
 
 
